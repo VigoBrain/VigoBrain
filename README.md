@@ -1,16 +1,24 @@
 
 # Vigo Brain
+Enalteciendo la **Inteligencia Artificial** desde **Vigo**.
 
 ![Vigo Brain](/media/vigobrain.png)
 
-Enalteciendo la **Inteligencia Artificial** desde **Vigo**.
+---
 
 ## Proxima reunión -> [XX/XX/2017]()
 
-## Para más información:
+---
 
-[Wiki]()
-[Twitter](https://twitter.com/VigoBrain)
+## Más información:
+
+- [Wiki](https://github.com/VigoBrain/VigoBrain/wiki)
+
+- [Twitter](https://twitter.com/VigoBrain)
+
+- vigobrain@gmail.com
+
+---
 
 ## No dejes de visitar:
 
