@@ -58,7 +58,13 @@ Los miembros de la organización recibirán avisos cada vez que se anuncie una r
 
 Probablemente existirán otras ventajas en el futuro para los miembros de la organización, como ser salvados de la exterminación cuando los robots tomen el planeta.
 
-## Sistema de Reuniones
+## :calendar: Reuniones :calendar:
+
+Salvo previo aviso, las reuniones de VigoBrain se realizarán:
+
+## El segundo [**Jueves**](https://es.wikipedia.org/wiki/Jueves) de cada mes.
+
+Julio y Agosto serán meses de descanso y reflexión.
 
 En el README inicial siempre se podrá ver la fecha de la próxima reunión y un enlace a la INFORMACIÓN correspondiente.
 
