@@ -14,6 +14,8 @@ Enalteciendo la **Inteligencia Artificial** desde **Vigo**.
 
 - [Twitter](https://twitter.com/VigoBrain)
 
+- [Slack](https://vigotechalliance.slack.com/) - Únete al canal: #vigobrain
+
 - vigobrain@gmail.com
 
 ---
