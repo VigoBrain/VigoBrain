@@ -1,5 +1,5 @@
-
 # Vigo Brain
+
 Enalteciendo la **Inteligencia Artificial** desde **Vigo**.
 
 ![Vigo Brain](/media/logo/png/logo.png) 
