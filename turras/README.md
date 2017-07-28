@@ -2,8 +2,14 @@
 
 ## [28_07_01](/28_07_01)
 
-- Charla de 3D Deep Learning.
+- Temas:
 
-- Ponentes: @daavoo
+3D Deep Learning
 
-- Lugar: Gradiant
+- Ponentes: 
+
+@daavoo
+
+- Lugar: 
+
+Gradiant
