@@ -1,15 +1,9 @@
 # Contenidos de charlas y reuniones
 
-## [28_07_2017](/28_07_2017/README.md)
+## [28_07_2017](https://github.com/VigoBrain/VigoBrain/tree/master/turras/28_07_2017)
 
-- Temas:
+- 3D Deep Learning
 
-3D Deep Learning
+- @daavoo
 
-- Ponentes: 
-
-@daavoo
-
-- Lugar: 
-
-Gradiant
+- Gradiant
