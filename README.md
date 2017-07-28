@@ -1,4 +1,3 @@
-
 # Vigo Brain
 
 Enalteciendo la **Inteligencia Artificial** desde **Vigo**.
