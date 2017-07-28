@@ -1,6 +1,6 @@
 # Contenidos de charlas y reuniones
 
-## [28_07_01](/28_07_01)
+## [28_07_2017](/28_07_2017/README.md)
 
 - Temas:
 
