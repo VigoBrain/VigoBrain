@@ -6,7 +6,7 @@ Enalteciendo la **Inteligencia Artificial** desde **Vigo**.
 
 ---
 
-## Proximo evento -> [SOMETHING - XX/XX/2017]()
+## Proximo evento -> [SOMETHING - 2017-XX-XX]()
 
 ---
 
@@ -64,9 +64,7 @@ Probablemente existirán otras ventajas en el futuro para los miembros de la org
 
 Salvo previo aviso, las reuniones de VigoBrain se realizarán:
 
-## El segundo [**Jueves**](https://es.wikipedia.org/wiki/Jueves) de cada mes.
-
-Julio y Agosto serán meses de descanso y reflexión.
+## El segundo **SÁBADO** de cada mes.
 
 En el README inicial siempre se podrá ver la fecha de la próxima reunión y un enlace a la INFORMACIÓN correspondiente.
 
