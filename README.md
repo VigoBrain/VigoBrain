@@ -6,7 +6,7 @@ Enalteciendo la **Inteligencia Artificial** desde **Vigo**.
 
 ---
 
-## Proximo evento -> [SOMETHING - 2017-09-27]()
+## Proximo evento -> [2017-09-27](https://github.com/VigoBrain/VigoBrain/issues/5)
 
 ---
 
