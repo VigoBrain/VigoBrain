@@ -6,7 +6,7 @@ Enalteciendo la **Inteligencia Artificial** desde **Vigo**.
 
 ---
 
-## Proximo evento -> [SOMETHING - 2017-XX-XX]()
+## Proximo evento -> [SOMETHING - 2017-09-27]()
 
 ---
 
@@ -61,10 +61,6 @@ Los miembros de la organización recibirán avisos cada vez que se anuncie una r
 Probablemente existirán otras ventajas en el futuro para los miembros de la organización, como ser salvados de la exterminación cuando los robots tomen el planeta.
 
 ## :calendar: Reuniones :calendar:
-
-Salvo previo aviso, las reuniones de VigoBrain se realizarán:
-
-## El segundo **SÁBADO** de cada mes.
 
 En el README inicial siempre se podrá ver la fecha de la próxima reunión y un enlace a la INFORMACIÓN correspondiente.
 
