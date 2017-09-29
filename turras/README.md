@@ -4,6 +4,14 @@
 
 - 3D Deep Learning
 
-- @daavoo
+- By: David de la Iglesia Castro
 
-- Gradiant
+- Lugar: Gradiant
+
+## [2017-09-27](https://github.com/VigoBrain/VigoBrain/releases/tag/0.0.2)
+
+- Introducción a los Algoritmos Genéticos
+
+- By: Carlos Groba
+
+- Lugar: Kaleido
